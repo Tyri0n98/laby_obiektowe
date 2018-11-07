@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="338474db-64a5-4572-9ef0-65cf0f156273" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/cs/cs/lab5/AbstractWorldMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/cs/cs/lab5/Car$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/cs/cs/lab5/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/cs/cs/lab5/CarSystem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/cs/cs/lab5/HayStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/cs/cs/lab5/IWorldMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/cs/cs/lab5/MapDirection$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/cs/cs/lab5/MapDirection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/cs/cs/lab5/MapVisualizer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/cs/cs/lab5/MoveDirection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/cs/cs/lab5/OptionsParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/cs/cs/lab5/Position.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/cs/cs/lab5/RectangularMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/cs/cs/lab5/UnboundedMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab5/cs/lab5/Car$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab5/cs/lab5/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab5/cs/lab5/CarSystem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab5/cs/lab5/IWorldMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab5/cs/lab5/MapDirection$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab5/cs/lab5/MapDirection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab5/cs/lab5/MapVisualizer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab5/cs/lab5/MoveDirection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab5/cs/lab5/OptionsParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab5/cs/lab5/Position.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab5/cs/lab5/RectangularMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/cs/cs/lab5/RectangularMapTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/cs/cs/lab5/UnboundedMapTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cs/cs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cs/lab5/main/cs/lab5/AbstractWorldMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cs/lab5/main/cs/lab5/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cs/lab5/main/cs/lab5/CarSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cs/lab5/main/cs/lab5/HayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cs/lab5/main/cs/lab5/IWorldMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cs/lab5/main/cs/lab5/MapDirection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cs/lab5/main/cs/lab5/MapVisualizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cs/lab5/main/cs/lab5/MoveDirection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cs/lab5/main/cs/lab5/OptionsParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cs/lab5/main/cs/lab5/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cs/lab5/main/cs/lab5/RectangularMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cs/lab5/main/cs/lab5/UnboundedMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cs/lab5/test/cs/lab5/RectangularMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cs/lab5/test/cs/lab5/UnboundedMapTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1788894051">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2192" />
+          <entry key="txt" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2192" />
+          <entry key="PLAIN_TEXT" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/cs/lab5/main/cs/lab5/UnboundedMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="901">
+              <caret line="56" column="70" selection-start-line="56" selection-start-column="70" selection-end-line="56" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/cs/lab5/main/cs/lab5/AbstractWorldMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/cs/lab5/test/cs/lab5/RectangularMapTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/cs/lab5/test/cs/lab5/UnboundedMapTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/cs/lab5/main/cs/lab5/MoveDirection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/cs/lab5/main/cs/lab5/MapDirection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Tyri0n" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/cs/lab5/cs/lab5/AbstractWorldMap.java" />
+        <option value="$PROJECT_DIR$/src/main/cs/lab5/cs/lab5/UnboundedMap.java" />
+        <option value="$PROJECT_DIR$/src/main/cs/lab5/cs/lab5/RectangularMap.java" />
+        <option value="$PROJECT_DIR$/src/main/cs/lab5/cs/lab5/CarSystem.java" />
+        <option value="$PROJECT_DIR$/src/main/cs/lab5/cs/lab5/Position.java" />
+        <option value="$PROJECT_DIR$/src/main/cs/lab5/test/lab5/AbstractWorldMap.java" />
+        <option value="$PROJECT_DIR$/src/main/cs/lab5/test/lab5/Position.java" />
+        <option value="$PROJECT_DIR$/src/main/cs/lab5/test/cs/lab5/RectangularMapTest.java" />
+        <option value="$PROJECT_DIR$/src/main/cs/lab5/main/cs/lab5/AbstractWorldMap.java" />
+        <option value="$PROJECT_DIR$/src/main/cs/lab5/main/cs/lab5/UnboundedMap.java" />
+        <option value="$PROJECT_DIR$/src/main/cs/lab5/test/cs/lab5/UnboundedMapTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="42" />
+    <option name="width" value="1900" />
+    <option name="height" value="1028" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lab5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs" type="462c0819:PsiDirectoryNode" />
+              <item name="lab5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs" type="462c0819:PsiDirectoryNode" />
+              <item name="lab5" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs" type="462c0819:PsiDirectoryNode" />
+              <item name="lab5" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="lab5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs" type="462c0819:PsiDirectoryNode" />
+              <item name="lab5" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs" type="462c0819:PsiDirectoryNode" />
+              <item name="lab5" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="lab5" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541464874260" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/cs/lab5/test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/cs/lab5/main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.UnboundedMapTest">
+    <configuration name="CarSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs.lab5.CarSystem" />
+      <module name="cs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs.lab5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectangularMapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs.lab5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cs.lab5" />
+      <option name="MAIN_CLASS_NAME" value="cs.lab5.RectangularMapTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnboundedMapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs.lab5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cs.lab5" />
+      <option name="MAIN_CLASS_NAME" value="cs.lab5.UnboundedMapTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CarSystem" />
+      <item itemvalue="JUnit.RectangularMapTest" />
+      <item itemvalue="JUnit.UnboundedMapTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UnboundedMapTest" />
+        <item itemvalue="JUnit.RectangularMapTest" />
+        <item itemvalue="Application.CarSystem" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="338474db-64a5-4572-9ef0-65cf0f156273" name="Default Changelist" comment="" />
+      <created>1541449880412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541449880412</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RectangularMapTest - 2018.11.06 at 00h 45m 38s.xml">
+      <configuration name="RectangularMapTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RectangularMapTest - 2018.11.06 at 00h 48m 07s.xml">
+      <configuration name="RectangularMapTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RectangularMapTest - 2018.11.06 at 00h 48m 50s.xml">
+      <configuration name="RectangularMapTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RectangularMapTest - 2018.11.06 at 00h 49m 06s.xml">
+      <configuration name="RectangularMapTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RectangularMapTest - 2018.11.06 at 00h 58m 17s.xml">
+      <configuration name="RectangularMapTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UnboundedMapTest - 2018.11.06 at 01h 06m 05s.xml">
+      <configuration name="UnboundedMapTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UnboundedMapTest - 2018.11.06 at 01h 10m 50s.xml">
+      <configuration name="UnboundedMapTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UnboundedMapTest - 2018.11.06 at 01h 12m 35s.xml">
+      <configuration name="UnboundedMapTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UnboundedMapTest - 2018.11.06 at 01h 29m 12s.xml">
+      <configuration name="UnboundedMapTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="42" width="1900" height="1028" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1364617" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32939914" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lab5" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab5" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/cs/lab5/main/cs/lab5/HayStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/cs/lab5/main/cs/lab5/CarSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <folding>
+            <element signature="e#350#360#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/cs/lab5/main/cs/lab5/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/cs/lab5/main/cs/lab5/Position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/cs/lab5/main/cs/lab5/RectangularMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/cs/lab5/test/lab5/AbstractWorldMap.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/cs/lab5/test/lab5/RectangularMap.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/cs/lab5/test/lab5/UnboundedMap.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/cs/lab5/test/lab5/MoveDirection.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/cs/lab5/test/lab5/IWorldMap.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/cs/lab5/test/lab5/MapDirection.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/cs/lab5/test/lab5/CarSystem.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/cs/lab5/test/lab5/HayStack.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/cs/lab5/test/lab5/OptionsParser.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/cs/lab5/test/lab5/Position.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/cs/lab5/main/cs/lab5/UnboundedMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="56" column="70" selection-start-line="56" selection-start-column="70" selection-end-line="56" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/cs/lab5/main/cs/lab5/AbstractWorldMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/cs/lab5/test/cs/lab5/RectangularMapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/cs/lab5/main/cs/lab5/MoveDirection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/cs/lab5/main/cs/lab5/MapDirection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/cs/lab5/test/cs/lab5/UnboundedMapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>cs</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

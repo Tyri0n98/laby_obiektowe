@@ -9,17 +9,20 @@ public class OptionsParser {
                 directions[i] = MoveDirection.FORWARD;
                 i++;
             }
-            if(arg.equals("b") || arg.equals("backward")){
+            else if(arg.equals("b") || arg.equals("backward")){
                 directions[i] = MoveDirection.BACKWARD;
                 i++;
             }
-            if(arg.equals("r") || arg.equals("right")){
+            else if(arg.equals("r") || arg.equals("right")){
                 directions[i] = MoveDirection.RIGHT;
                 i++;
             }
-            if(arg.equals("l") || arg.equals("left")){
+            else if(arg.equals("l") || arg.equals("left")){
                 directions[i] = MoveDirection.LEFT;
                 i++;
+            }
+            else {
+                throw new IllegalArgumentException(arg + " is invalid");
             }
         }
         MoveDirection[] directions1 = new MoveDirection[i];

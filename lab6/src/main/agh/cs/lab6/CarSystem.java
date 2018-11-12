@@ -15,10 +15,10 @@ public class CarSystem {
         hayStacks.add(new HayStack(new Position(3,2)));
         hayStacks.add(new HayStack(new Position(0,0)));
         hayStacks.add(new HayStack(new Position(1,6)));
-        //IWorldMap map = new UnboundedMap(hayStacks);
-        IWorldMap map = new RectangularMap(5,5);
+        IWorldMap map = new UnboundedMap(hayStacks);
+        //IWorldMap map = new RectangularMap(5,5);
         map.place(new Car(map));
-        //map.place(new Car(map, new Position(3,4)));
+        map.place(new Car(map, new Position(3,4)));
         map.run(directions);
     }
 }

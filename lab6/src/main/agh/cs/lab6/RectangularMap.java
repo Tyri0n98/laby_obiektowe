@@ -20,20 +20,12 @@ public class RectangularMap extends AbstractWorldMap{
     }
 
     @Override
-    public boolean place(Car car) {
-        if(!isOccupied(car.getPosition())){
-            carsList.add(car);
-            return true;
-        }
-        return false;
+    public boolean place(IObject car) {
+        return super.place(car);
     }
 
     @Override
     public void run(MoveDirection[] directions) {
-        for(int i = 0; i < directions.length; i++ ){
-            carsList.get(i % carsList.size()).move(directions[i]);
-            System.out.print(this.toString());
-        }
+        super.run(directions);
     }
-
 }

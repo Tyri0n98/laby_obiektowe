@@ -1,6 +1,6 @@
 package agh.cs.lab6;
 
-public class Car {
+public class Car implements IObject{
     private Position position = new Position(2,2);
     private MapDirection orientation = MapDirection.NORTH;
     private IWorldMap map;

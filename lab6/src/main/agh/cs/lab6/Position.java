@@ -51,4 +51,10 @@ public class Position {
         return new Position(this.x - pos.x, this.y - pos.y);
     }
     public int getX(){ return this.x;}
+    public int hashCode(){
+        int hash = 17;
+        hash += this.x * 23;
+        hash += this.y * 11;
+        return hash;
+    }
 }

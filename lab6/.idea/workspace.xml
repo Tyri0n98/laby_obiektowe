@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c748408f-b893-421a-a2f7-107f4ec92253" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/agh/cs/lab6/IObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lab6.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab6/agh/cs/lab6/AbstractWorldMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab6/agh/cs/lab6/AbstractWorldMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab6/agh/cs/lab6/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab6/agh/cs/lab6/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab6/agh/cs/lab6/CarSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab6/agh/cs/lab6/CarSystem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab6/agh/cs/lab6/HayStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab6/agh/cs/lab6/HayStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab6/agh/cs/lab6/IWorldMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab6/agh/cs/lab6/IWorldMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab6/agh/cs/lab6/Position.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab6/agh/cs/lab6/Position.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab6/agh/cs/lab6/RectangularMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab6/agh/cs/lab6/RectangularMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab6/agh/cs/lab6/UnboundedMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab6/agh/cs/lab6/UnboundedMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/agh/cs/lab6/AbstractWorldMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/agh/cs/lab6/AbstractWorldMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/agh/cs/lab6/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/agh/cs/lab6/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/agh/cs/lab6/CarSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/agh/cs/lab6/CarSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/agh/cs/lab6/HayStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/agh/cs/lab6/HayStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/agh/cs/lab6/IWorldMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/agh/cs/lab6/IWorldMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/agh/cs/lab6/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/agh/cs/lab6/Position.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/agh/cs/lab6/RectangularMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/agh/cs/lab6/RectangularMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/agh/cs/lab6/UnboundedMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/agh/cs/lab6/UnboundedMap.java" afterDir="false" />
-    </list>
+    <list default="true" id="c748408f-b893-421a-a2f7-107f4ec92253" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,10 +49,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/agh/cs/lab6/AbstractWorldMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
+            <state relative-caret-position="425">
               <caret line="33" column="54" selection-start-line="33" selection-start-column="54" selection-end-line="33" selection-end-column="54" />
               <folding>
                 <element signature="e#1088#1089#0" expanded="true" />
@@ -111,7 +89,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/agh/cs/lab6/CarSystem.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
@@ -180,7 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="704" />
     <option name="y" value="42" />
     <option name="width" value="1206" />
@@ -242,7 +220,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542061905970" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542061907909" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -364,7 +342,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.50053704" side_tool="true" weight="0.24973032" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49946293" visible="true" weight="0.18189655" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49946293" visible="true" weight="0.18189655" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -372,7 +350,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32975295" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32975295" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -620,9 +598,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/agh/cs/lab6/CarSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/agh/cs/lab6/AbstractWorldMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
+        <state relative-caret-position="425">
           <caret line="33" column="54" selection-start-line="33" selection-start-column="54" selection-end-line="33" selection-end-column="54" />
           <folding>
             <element signature="e#1088#1089#0" expanded="true" />
@@ -632,13 +617,6 @@
             <element signature="e#1748#1749#0" expanded="true" />
             <element signature="e#1826#1827#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/agh/cs/lab6/CarSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
         </state>
       </provider>
     </entry>

@@ -1,10 +1,7 @@
-package agh.cs.lab6;
+package agh.cs.lab7;
 
 import java.util.List;
 
-/**
- * Created by student14 on 2018-10-30.
- */
 public class UnboundedMap extends AbstractWorldMap {
 
     public UnboundedMap(List<HayStack> hayStacks){

@@ -1,10 +1,6 @@
-package agh.cs.lab6;
+package agh.cs.lab7;
 
-import java.util.LinkedList;
 
-/**
- * Created by student14 on 2018-10-23.
- */
 public class RectangularMap extends AbstractWorldMap{
 
     public RectangularMap(int width, int height){

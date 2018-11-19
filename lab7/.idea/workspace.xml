@@ -2,64 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d13e8604-4a20-4bda-9afa-a49758ba4ef2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../lab6/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab6/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab6/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab6/.idea/scopes/scope_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/AbstractWorldMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/Car$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/CarSystem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/HayStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/IObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/IPositionChangeObserver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/IWorldMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/MapDirection$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/MapDirection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/MapVisualizer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/MoveDirection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/OptionsParser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/Position.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/RectangularMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/UnboundedMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/lab7/agh/cs/lab7/RectangularMapTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/lab7/agh/cs/lab7/UnboundedMapTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/agh/cs/lab7/AbstractWorldMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/agh/cs/lab7/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/agh/cs/lab7/CarSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/agh/cs/lab7/HayStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/agh/cs/lab7/IObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/agh/cs/lab7/IPositionChangeObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/agh/cs/lab7/IWorldMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/agh/cs/lab7/MapDirection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/agh/cs/lab7/MapVisualizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/agh/cs/lab7/MoveDirection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/agh/cs/lab7/OptionsParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/agh/cs/lab7/Position.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/agh/cs/lab7/RectangularMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/agh/cs/lab7/UnboundedMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/agh/cs/lab7/RectangularMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/agh/cs/lab7/UnboundedMapTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab6/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab6/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab6/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab6/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab6/lab6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/lab6.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab6/src/main/agh/cs/lab6/RectangularMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/src/main/agh/cs/lab6/RectangularMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab6/src/main/agh/cs/lab6/UnboundedMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/src/main/agh/cs/lab6/UnboundedMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/AbstractWorldMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/AbstractWorldMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/Car$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/Car$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/CarSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/CarSystem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/HayStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/HayStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/IObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/IObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/IPositionChangeObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/IPositionChangeObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/IWorldMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/IWorldMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/MapDirection$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/MapDirection$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/MapDirection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/MapDirection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/MapVisualizer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/MapVisualizer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/MoveDirection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/MoveDirection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/OptionsParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/OptionsParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/Position.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/Position.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/RectangularMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/RectangularMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/UnboundedMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab7/agh/cs/lab7/UnboundedMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/lab7/agh/cs/lab7/RectangularMapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/lab7/agh/cs/lab7/RectangularMapTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/lab7/agh/cs/lab7/UnboundedMapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/lab7/agh/cs/lab7/UnboundedMapTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/agh/cs/lab7/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/agh/cs/lab7/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/agh/cs/lab7/CarSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/agh/cs/lab7/CarSystem.java" afterDir="false" />
     </list>
     <ignored path="lab7.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -77,30 +41,34 @@
     <session id="2113046237">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="7" />
+          <entry key="java" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="7" />
+          <entry key="JAVA" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="196" />
+          <entry key="java" value="931" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="196" />
+          <entry key="JAVA" value="931" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FavoritesManager">
@@ -111,18 +79,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/agh/cs/lab7/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="34" column="18" lean-forward="true" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+            <state relative-caret-position="252">
+              <caret line="32" column="49" lean-forward="true" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1325#1326#0" expanded="true" />
-                <element signature="e#1361#1362#0" expanded="true" />
-                <element signature="e#1403#1404#0" expanded="true" />
-                <element signature="e#1442#1443#0" expanded="true" />
-                <element signature="e#2198#2199#0" expanded="true" />
-                <element signature="e#2242#2243#0" expanded="true" />
-                <element signature="e#2309#2310#0" expanded="true" />
-                <element signature="e#2356#2357#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -131,29 +91,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/agh/cs/lab7/UnboundedMapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+            <state relative-caret-position="68">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/agh/cs/lab7/RectangularMapTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/agh/cs/lab7/CarSystem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+            <state relative-caret-position="439">
+              <caret line="44" column="11" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="11" />
+              <folding>
+                <element signature="e#300#310#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -170,8 +121,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/agh/cs/lab7/AbstractWorldMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="40" column="56" selection-start-line="40" selection-start-column="56" selection-end-line="40" selection-end-column="56" />
+            <state relative-caret-position="255">
+              <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -189,10 +140,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/agh/cs/lab7/Car.java" />
         <option value="$PROJECT_DIR$/src/main/agh/cs/lab7/AbstractWorldMap.java" />
         <option value="$PROJECT_DIR$/src/test/agh/cs/lab7/UnboundedMapTest.java" />
         <option value="$PROJECT_DIR$/src/test/agh/cs/lab7/RectangularMapTest.java" />
+        <option value="$PROJECT_DIR$/src/main/agh/cs/lab7/Car.java" />
+        <option value="$PROJECT_DIR$/src/main/agh/cs/lab7/CarSystem.java" />
       </list>
     </option>
   </component>
@@ -253,8 +205,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -267,10 +219,10 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542141505043" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542663877109" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
@@ -299,7 +251,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RectangularMapTest">
+  <component name="RunManager" selected="Application.CarSystem">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -467,9 +419,9 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RectangularMapTest" />
-        <item itemvalue="JUnit.UnboundedMapTest" />
         <item itemvalue="Application.CarSystem" />
+        <item itemvalue="JUnit.UnboundedMapTest" />
+        <item itemvalue="JUnit.RectangularMapTest" />
       </list>
     </recent_temporary>
   </component>
@@ -493,21 +445,32 @@
     <history-entry file="RectangularMapTest - 2018.11.13 at 21h 37m 00s.xml">
       <configuration name="RectangularMapTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RectangularMapTest - 2018.11.13 at 21h 38m 26s.xml">
+      <configuration name="RectangularMapTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UnboundedMapTest - 2018.11.19 at 22h 40m 36s.xml">
+      <configuration name="UnboundedMapTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RectangularMapTest - 2018.11.19 at 22h 40m 41s.xml">
+      <configuration name="RectangularMapTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UnboundedMapTest - 2018.11.19 at 22h 44m 33s.xml">
+      <configuration name="UnboundedMapTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="42" width="1900" height="1028" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29989213" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17206042" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Palette&#9;" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32867885" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32867885" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -515,17 +478,17 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Changes" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053936" side_tool="true" weight="0.32975295" />
       <window_info anchor="bottom" id="Application Servers" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946064" weight="0.32975295" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Designer" order="4" />
       <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -614,13 +577,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/agh/cs/lab7/AbstractWorldMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="40" column="56" selection-start-line="40" selection-start-column="56" selection-end-line="40" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/agh/cs/lab7/IPositionChangeObserver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -628,44 +584,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/agh/cs/lab7/Car.java">
+    <entry file="file://$PROJECT_DIR$/src/test/agh/cs/lab7/RectangularMapTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="34" column="18" lean-forward="true" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+        <state relative-caret-position="527">
+          <caret line="31" column="90" lean-forward="true" selection-start-line="31" selection-start-column="90" selection-end-line="31" selection-end-column="90" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1325#1326#0" expanded="true" />
-            <element signature="e#1361#1362#0" expanded="true" />
-            <element signature="e#1403#1404#0" expanded="true" />
-            <element signature="e#1442#1443#0" expanded="true" />
-            <element signature="e#2198#2199#0" expanded="true" />
-            <element signature="e#2242#2243#0" expanded="true" />
-            <element signature="e#2309#2310#0" expanded="true" />
-            <element signature="e#2356#2357#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/agh/cs/lab7/CarSystem.java">
+    <entry file="file://$PROJECT_DIR$/src/main/agh/cs/lab7/AbstractWorldMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        <state relative-caret-position="255">
+          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/agh/cs/lab7/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="32" column="49" lean-forward="true" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/agh/cs/lab7/UnboundedMapTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/agh/cs/lab7/RectangularMapTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/agh/cs/lab7/CarSystem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+        <state relative-caret-position="439">
+          <caret line="44" column="11" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="11" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#300#310#0" expanded="true" />
           </folding>
         </state>
       </provider>

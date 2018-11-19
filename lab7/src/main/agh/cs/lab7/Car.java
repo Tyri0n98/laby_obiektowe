@@ -30,8 +30,7 @@ public class Car implements IObject{
                  if(map.canMoveTo(this.position.add(getVector(direction)))) {
                      Position beforeMove = this.position;
                      this.position = this.position.add(getVector(direction));
-                     for(IPositionChangeObserver observer: observers)
-                         observer.positionChanged(beforeMove, getPosition());
+                     positionChanged(beforeMove);
                  }
                 break;
             }
@@ -75,5 +74,10 @@ public class Car implements IObject{
 
     public void removeObserver(IPositionChangeObserver observer){
         this.observers.remove(observer);
+    }
+
+    private void positionChanged(Position beforeMove){
+        for(IPositionChangeObserver observer: observers)
+            observer.positionChanged(beforeMove, getPosition());
     }
 }
